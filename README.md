@@ -10,4 +10,3 @@ Practice : Git
 
 Subject : Git and Github
 
-Practice : Github pull request
