@@ -35,11 +35,11 @@
 ### 최종 결과물
  메인 페이지(MAIN) | 길찾기 페이지(NAV)
  -------------------------|------------------------------
-<img width="550" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-SOUP-10/blob/main/Doc/ReferenceImages/main_page.png"> | 추가 예정
+<img height="350" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-SOUP-10/blob/main/Doc/ReferenceImages/main_page.png"> | <img height="350" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-SOUP-10/blob/main/Doc/ReferenceImages/nav_page.png">
 
  건물정보 페이지(INFO) | 편의시설 페이지(CONVENIENT)
  -------------------------|------------------------------
-<img width="550" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-SOUP-10/blob/main/Doc/ReferenceImages/building_page.png"> | <img width="550" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-SOUP-10/blob/main/Doc/ReferenceImages/conv_page.png">
+<img height="350" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-SOUP-10/blob/main/Doc/ReferenceImages/building_page.png"> | <img width="350" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-SOUP-10/blob/main/Doc/ReferenceImages/conv_page.png">
 
  [프로젝트 시연 동영상]()
 
