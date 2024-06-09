@@ -22,7 +22,7 @@ node src/server.js
 ```
 5. 새로운 CMD 창에서 clone받은 폴더 내의 front 폴더로 이동 후 초기에 노드 모듈이 front 폴더 내에 없다면 다음 명령어를 통해 설치
 ```
-npm update
+npm update react-scripts
 ```
 6. React 웹 페이지 실행
 ```
